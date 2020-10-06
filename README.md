@@ -1,5 +1,3 @@
-# OnBoarding
-
 # <h1 align="center">🎼 OnBoarding/Walkthrough 🎼</h1>
 
 
