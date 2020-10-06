@@ -3,7 +3,7 @@
 
 
 
-# <h1 align="center">🎼 OnBoarding 🎼</h1>
+# <h1 align="center">🎼 OnBoarding/Walkthrough 🎼</h1>
 
 
 <p align="center">
@@ -33,9 +33,9 @@
 
 ## YouTube
 <details>
-<summary> OnBoarding </summary>
+<summary> OnBoarding/Walkthrough </summary>
 <br>
-Onboading screen.
+OnBoarding/Walkthrough screen.
 <br><br>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/sNUq3G_KhLY/0.jpg)](https://youtu.be/vP9HZtP9CGY)
