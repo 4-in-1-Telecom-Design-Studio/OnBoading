@@ -1,8 +1,5 @@
 # OnBoarding
 
-
-
-
 # <h1 align="center">🎼 OnBoarding/Walkthrough 🎼</h1>
 
 
@@ -26,9 +23,9 @@
 </p>
 
 
-
-
 ## Introduction
+
+
 
 
 ## YouTube
