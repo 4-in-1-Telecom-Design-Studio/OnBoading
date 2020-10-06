@@ -1,5 +1,4 @@
-# <h1 align="center">🎼 OnBoarding/Walkthrough 🎼</h1>
-
+#  <h1 align="center"> :sparkles:OnBoarding/Walkthrough :sparkles: </h1> 
 
 <p align="center">
 <a href="https://github.com/4-in-1-telecommunications/Showcase/blob/master/README.md">
